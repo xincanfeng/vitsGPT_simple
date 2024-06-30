@@ -25,7 +25,7 @@ In our recent [paper](https://arxiv.org/abs/2404.06714), we propose Llama-VITS f
 ## Pre-requisites 
 0. Clone this repository
     ```sh
-    git clone git@github.com:xincanfeng/vitsGPT.git
+    git clone git@github.com:xincanfeng/vitsGPT_simple.git
     ```
 0. Install requirements. 
     ```sh
